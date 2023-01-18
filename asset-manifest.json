@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.79924c4a.css",
+    "main.js": "./static/js/main.9a4516ac.js",
+    "static/js/787.3fffa204.chunk.js": "./static/js/787.3fffa204.chunk.js",
+    "static/media/Menu-Banner-UserGroup.png": "./static/media/Menu-Banner-UserGroup.ead2ad01ffff550f55ca.png",
+    "static/media/Menu-Banner-Training.png": "./static/media/Menu-Banner-Training.d344cee08805770abac3.png",
+    "static/media/Menu-Banner-Products.png": "./static/media/Menu-Banner-Products.04285632bdde1e8ff9c9.png",
+    "static/media/Menu-Banner-AboutUs.png": "./static/media/Menu-Banner-AboutUs.23e7ac92de4759888990.png",
+    "static/media/Menu-Banner-Services.png": "./static/media/Menu-Banner-Services.2ba07ac7d329e53ba234.png",
+    "static/media/Menu-Banner-Standards.png": "./static/media/Menu-Banner-Standards.412033791fab15c4d7ae.png",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.79924c4a.css.map": "./static/css/main.79924c4a.css.map",
+    "main.9a4516ac.js.map": "./static/js/main.9a4516ac.js.map",
+    "787.3fffa204.chunk.js.map": "./static/js/787.3fffa204.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79924c4a.css",
+    "static/js/main.9a4516ac.js"
+  ]
+}
